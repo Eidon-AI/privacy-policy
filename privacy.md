@@ -52,7 +52,7 @@ We may share limited data with:
 - **Law enforcement** only when required by law.  
 
 We may also use aggregated or anonymized data for research or analytics that cannot identify individual users.
-And we may conduct data licencing deals, full sale deals, or open source the data to third parties for the anonymized collected video and sensor data.
+And we may conduct data licencing and sale deals, or open source the anonymized collected video and sensor data to third parties.
 
 ---
 
@@ -63,7 +63,7 @@ You can:
 - Delete local or remote videos through the App.  
 - Request full data deletion or export by contacting us at **[dispute@eidon.ai](mailto:dispute@eidon.ai)**.
 
-Note that once 
+We will delete data from our servers but we can not guarantee that previously sold or open source data will also be deleted.
 
 ---
 
